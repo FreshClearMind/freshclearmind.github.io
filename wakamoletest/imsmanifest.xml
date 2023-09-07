@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">Wakamoletest</langstring>
+          <langstring xml:lang="x-none">wakamoletest</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="Wakamoletest_ORG">
-    <organization identifier="Wakamoletest_ORG">
-      <title>Wakamoletest</title>
+  <organizations default="wakamoletest_ORG">
+    <organization identifier="wakamoletest_ORG">
+      <title>wakamoletest</title>
       <item identifier="Wakamoletest_SCO" isvisible="true" identifierref="__6DEsqDNjbkG_RES">
-        <title>Wakamoletest</title>
+        <title>wakamoletest</title>
       </item>
     </organization>
   </organizations>
